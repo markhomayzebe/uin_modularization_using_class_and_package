@@ -1,5 +1,5 @@
 nama = 'Ulung Markho Mayzebe'
-program = 'Usaha'
+program = 'Usaha, Massa Jenis, Hambatan'
 
 print(f'Program {program} oleh {nama}')
 
@@ -18,10 +18,7 @@ usaha = hitung_usaha(300, 70)
 
 
 
-nama = 'Ulung Markho Mayzebe'
-program = 'massa jenis'
 
-print(f'Program {program} oleh {nama}')
 
 
 def hitung_massa_jenis(massa, volume):
@@ -38,10 +35,6 @@ massa_jenis = hitung_massa_jenis(10, 200)
 
 
 
-nama = 'Ulung Markho Mayzebe'
-program = 'Hambatan Listrik'
-
-print(f'Program {program} oleh {nama}')
 
 
 def hitung_hambatan(tegangan, arus):
